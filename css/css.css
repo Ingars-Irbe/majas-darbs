@@ -1,0 +1,41 @@
+body{
+    background-color: #87D2FF;
+}
+
+.virsraksts{
+    font-size: 72px;
+    margin-left: 3%;
+    
+}
+
+.center{
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.video{
+    margin-top: 15px;
+}
+
+.bottons{
+   float: right;
+}
+
+.navbar-default .navbar-nav > li > .dropdown-menu{
+    background-color: #15596D;
+    color: #15596D ;
+}
+.navbar-custom{
+    background-color: #1b6d85;
+    border-color: white;
+
+}
+.navbar-brand{
+    color: white;
+}
+
+.nav{
+    color: white;
+    border-color: white;
+}
